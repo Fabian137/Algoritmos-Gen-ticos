@@ -1,6 +1,8 @@
 
 En este repositorio se encuentra trabajo realizado para la materia de Algoritmos Genéticos asi como parte de notas de clases complementadas con notas de procesos estocásticos.
 
+[Puedes visitar también la página en la web](https://ag-notas.netlify.app/) 
+ 
 ## Contexto y Ubicación en la Ruta LLM
 
 Este proyecto/documento presenta una exploración teórica de los **Algoritmos Genéticos (AG)** desde una perspectiva avanzada: su formulación y análisis en **espacios métricos generales**. Este enfoque permite extender los AG más allá del espacio euclidiano tradicional ($\mathbb{R}^n$), abriendo la puerta a la optimización en espacios de funciones, curvas, superficies y otras estructuras matemáticas más complejas.
@@ -100,17 +102,13 @@ graph LR
 ## Evidencias incluidas
 
 ```
-algoritmos_geneticos.html
-Exposición/
-├── AG-espacios-metricos.tex
-├── AG-espacios-metricos.pdf
-└── AG-espacios-metricos-presentacion.pdf (si existe)
-Notas/
-├── AG en espacios métricos generales (codificación real).md
-└── algoritmos_geneticos.html
-README.md
+.
+├── index.html                          # Portal
+├── README.md
+├── notas/
+│   └── algoritmos_geneticos.html      #  notas de la materia
+├── Exposición/
+│   ├── AG-espacios-metricos.pdf    
+│   └── AG-espacios-metricos.tex       #  archivo .tex para el beamer (pdf)
+│   └── AG en espacios métricos generales (codificación real).md        # notas de lectura para la exposición homónima
 ```
-```algoritmos_geneticos.html``` contiene las notas mencionadas.
-```AG en espacios métricos generales (codificación real).md``` son notas de lectura para la exposición homónima.
-```AG-espacios-metricos.*``` archivo .tex para el beamer (pdf) sobre la exposición de *Algoritmos Genéticos en espacios métricos generales (códificación real)*.
-
