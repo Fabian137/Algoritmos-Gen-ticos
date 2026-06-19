@@ -99,12 +99,17 @@ graph LR
 
 ## Evidencias incluidas
 
-├── algoritmos_geneticos.html
-├── Exposicion
-│   ├── AG en espacios métricos generales (codificación real).md
-│   ├── AG-espacios-metricos.pdf
-│   └── AG-espacios-metricos.tex
-└── README.md
+```
+algoritmos_geneticos.html
+Exposición/
+├── AG-espacios-metricos.tex
+├── AG-espacios-metricos.pdf
+└── AG-espacios-metricos-presentacion.pdf (si existe)
+Notas/
+├── AG en espacios métricos generales (codificación real).md
+└── algoritmos_geneticos.html
+README.md
+```
 ```algoritmos_geneticos.html``` contiene las notas mencionadas.
 ```AG en espacios métricos generales (codificación real).md``` son notas de lectura para la exposición homónima.
 ```AG-espacios-metricos.*``` archivo .tex para el beamer (pdf) sobre la exposición de *Algoritmos Genéticos en espacios métricos generales (códificación real)*.
